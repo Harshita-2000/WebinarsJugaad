@@ -235,10 +235,11 @@ video{
 }
 
 .container3{
-  width: 100%;
+  width: 150vh;
   height: 100vh;
   position: relative;
   display: flex;
+  margin-
   margin-bottom: 3rem;
   margin-top: 3rem;
   justify-content: center;
@@ -507,7 +508,6 @@ img{
 }
 .row{
 	display: flex;
-	flex-wrap: wrap;
 }
 ul{
 	list-style: none;
@@ -584,12 +584,6 @@ ul{
 }
 }
 
-#map {
-  height: 600px;
-  /* The height is 400 pixels */
-  width:100px;
-  flex:1 1 50%;
-}
 .contactus{
   display:flex;
 }
